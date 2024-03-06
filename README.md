@@ -30,4 +30,5 @@ This project serves as a foundation for further exploration of Power BI's capabi
 
 - `survey_data.pbix`: Power BI dashboard containing all visualizations mentioned above.
 - `survey_data_export.pdf`: PDF export of the Power BI dashboard.
+- `Power BI Data Professional Data.xlsx`: Source survey file containing the raw data.
 
